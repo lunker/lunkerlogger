@@ -1,0 +1,5 @@
+# clion
+.idea/
+
+# cmake debug output
+cmake-build-debug/
